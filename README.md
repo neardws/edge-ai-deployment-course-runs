@@ -9,6 +9,7 @@ It is not a model-weight repository. Large files, private machine details, token
 | Run | Scope | Status |
 | --- | --- | --- |
 | [2026-06-29 server smoke run](runs/2026-06-29-server-smoke/README.md) | Start Here, Ubuntu/NVIDIA environment check, llama.cpp CUDA build, first Qwen GGUF baseline and benchmark | Complete |
+| [2026-06-29 Jetson login check](runs/2026-06-29-jetson-login-check/README.md) | Jetson SSH preflight before environment inspection | Blocked at authentication |
 
 ## Public Archive Rules
 
