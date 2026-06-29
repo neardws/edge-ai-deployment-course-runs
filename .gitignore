@@ -1,0 +1,18 @@
+# local scratch
+.DS_Store
+tmp/
+
+# model weights and large generated artifacts
+*.gguf
+*.safetensors
+*.bin
+*.pt
+*.pth
+build/
+node_modules/
+
+# secrets
+.env
+*.pem
+*.key
+
