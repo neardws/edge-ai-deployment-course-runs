@@ -11,6 +11,7 @@ It is not a model-weight repository. Large files, private machine details, token
 | [2026-06-29 server smoke run](runs/2026-06-29-server-smoke/README.md) | Start Here, Ubuntu/NVIDIA environment check, llama.cpp CUDA build, first Qwen GGUF baseline and benchmark | Complete |
 | [2026-06-29 Jetson login check](runs/2026-06-29-jetson-login-check/README.md) | Jetson SSH preflight before environment inspection | Blocked at authentication |
 | [2026-06-29 Qwen quantization comparison](runs/2026-06-29-qwen-quantization-comparison/README.md) | Q4/Q5/Q8 GGUF comparison with llama.cpp on server GPU | Complete |
+| [2026-06-29 Jetson environment and build preflight](runs/2026-06-29-jetson-env-build-preflight/README.md) | Jetson environment snapshot, tegrastats idle sample, llama.cpp CUDA configure/build preflight | Partial |
 
 ## Public Archive Rules
 
